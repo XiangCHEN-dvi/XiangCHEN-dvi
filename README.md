@@ -1,4 +1,4 @@
-I am Xiang CHEN, currently an AI research engineer, interested in AI for Scientific Computation. More specifically spearking:
+I am Xiang CHEN, currently an AI research engineer, interested in AI for Scientific Computation. More specifically speaking:
 
 - AI-Based Novel Solvers
     - PDE: PINN, Deep Ritz, etc.
@@ -26,6 +26,8 @@ I am Xiang CHEN, currently an AI research engineer, interested in AI for Scienti
     - Neural reparameterization techniques.
     - Specifically designed optimization techniques.
 - Applications in CEM / TCAD / mesh generation and adaptation / dynamic systems.
+
+A literature survey on AI4PDE in Chinese is maintained [here](https://zhuanlan.zhihu.com/p/522145614).
 
 Check my [Google Scholar Homepage](https://scholar.google.com/citations?user=2cj3OTIAAAAJ&hl=zh-CN) for our work:
 
