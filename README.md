@@ -12,7 +12,6 @@ I am Xiang CHEN, currently an AI research engineer, interested in AI for Scienti
     - Multigrid / preconditioner.
 - Physics-Embedded Models:
     - Shape prior embedding (monotonicity, complexity, etc.).
-    - Symmetry/anti-symmetry embedding.
     - Equivariance/invariance embedding: deepset, set trasnformer, E3NN, SchNet, etc.
     - Formulae form embedding: DeLan, LNN, Hamiltonian NN, etc.
     - Differentiable physics models
@@ -27,7 +26,9 @@ I am Xiang CHEN, currently an AI research engineer, interested in AI for Scienti
     - Specifically designed optimization techniques.
 - Applications in CEM / TCAD / mesh generation and adaptation / dynamic systems.
 
-A literature survey on AI4PDE in Chinese is maintained [here](https://zhuanlan.zhihu.com/p/522145614).
+A literature survey on AI4PDE in Chinese is maintained [at zhihu.com](https://zhuanlan.zhihu.com/p/522145614).
+
+A literature survey on Physics-Embedded Machine Learning in Chinese is maintained [at zhihu.com](https://zhuanlan.zhihu.com/p/574970271).
 
 Check my [Google Scholar Homepage](https://scholar.google.com/citations?user=2cj3OTIAAAAJ&hl=zh-CN) for our work:
 
