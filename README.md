@@ -32,11 +32,11 @@ A literature survey on Physics-Embedded Machine Learning in Chinese is maintaine
 
 Check my [Google Scholar Homepage](https://scholar.google.com/citations?user=2cj3OTIAAAAJ&hl=zh-CN) for our work:
 
-- M2N: Mesh Movement Networks for PDE Solvers
+- [M2N: Mesh Movement Networks for PDE Solvers](https://arxiv.org/abs/2204.11188)
     - To the best of our knowledge the first learning-based end-to-end mesh movement framework that can greatly accelerate the mesh adaptation process by 3 to 4 orders of magnitude, whilst achieving comparable numerical error reduction to traditional sota methods.
-- AD-NEGF: An End-to-End Differentiable Quantum Transport Simulator for Sensitivity Analysis and Inverse Problems
+- [AD-NEGF: An End-to-End Differentiable Quantum Transport Simulator for Sensitivity Analysis and Inverse Problems](https://arxiv.org/abs/2202.05098)
     - To the best of our knowledge the first end-to-end differentiable quantum transport simulator, which enables accurate and efficient calculation of differential physical quantities and solving inverse problems intractable by traditional optimization methods.
-- SCGLED: Self-Consistent Gradient-Like Eigen Decomposition in Solving Schrodinger Equations
-- Binet: learning to solve partial differential equations with boundary integral networks
-- A neural network framework for learning Green's function
-- Performance-Guaranteed ODE Solvers with Complexity-Informed Neural Networks
+- [SCGLED: Self-Consistent Gradient-Like Eigen Decomposition in Solving Schrodinger Equations](https://arxiv.org/abs/2202.01388)
+- [BINet: learning to solve partial differential equations with boundary integral networks](https://arxiv.org/abs/2110.00352)
+- [BI-GreenNet: Learning Green's functions by boundary integral network](https://arxiv.org/abs/2204.13247)
+- [Performance-Guaranteed ODE Solvers with Complexity-Informed Neural Networks](https://openreview.net/forum?id=bGwI4GxDSt)
